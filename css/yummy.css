@@ -1,0 +1,12 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+img {
+    float: left;
+}
+.sidebar {
+    width: 1000px;
+    float: right;
+    background-color: orange;
+}
